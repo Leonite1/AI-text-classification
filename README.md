@@ -42,4 +42,10 @@ uvicorn src.app:app --reload --port 8000
 
 ![Foto1](https://github.com/user-attachments/assets/eb4ef8dc-6c71-4d98-a971-359538708515)
 
+![Foto2](https://github.com/user-attachments/assets/8d736e5b-9890-4f7c-9a59-e17f383d5b3b)
+
+![Foto3](https://github.com/user-attachments/assets/05947474-08db-4416-b2f8-2a53d62256a1)
+
+
+
 
