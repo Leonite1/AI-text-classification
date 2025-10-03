@@ -39,3 +39,7 @@ python -m src.predict "your text here"
 
 Start FastAPI server:
 uvicorn src.app:app --reload --port 8000
+
+![Foto1](https://github.com/user-attachments/assets/eb4ef8dc-6c71-4d98-a971-359538708515)
+
+
